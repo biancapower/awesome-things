@@ -13,3 +13,7 @@ The `man` command is super useful, but often gives more detail than is needed to
 * [tldr](https://github.com/tldr-pages/tldr): simplified and community-driven man pages
 * [cheat.sh](https://github.com/chubin/cheat.sh): curl a cheatsheet for just about anything, from terminal commands to docker to language specific things. The "learn" option gives a really neat overview of a programming language (e.g. `curl cheat.sh/javascript/:learn` ).  `curl cheat.sh/:intro` gives an verview
 
+
+## Awesome things I haven't tried yet (but plan to)
+
+* 
