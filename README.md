@@ -22,4 +22,4 @@ The `man` command is super useful, but often gives more detail than is needed to
 
 ## Awesome things I haven't tried yet (but plan to)
 
-* 
+* [GraphQL](https://graphql.org/learn/)
